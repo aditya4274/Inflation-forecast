@@ -6,3 +6,4 @@ What we are currently working on? :nerd_face:
 - The data we are using has been collected from the World Bank Organisation.
 - This is important to understand the monetary policies. Since monetary policy transmission is associated with significant lags, central banks aiming to achieve price stability need to be forward-looking in their decisions as well – which underscores the importance of inflation forecasting.
 - The forecast will have a point specific outcome.
+- The data that are using to forecast is collected and curated by The World Bank organization. We can find the link to the data at https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
